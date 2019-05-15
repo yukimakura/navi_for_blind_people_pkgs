@@ -1,6 +1,0 @@
-[submodule "laser_scan_obstacle_detection"]
-	path = laser_scan_obstacle_detection
-	url = https://github.com/yukimakura/laser_scan_obstacle_detection.git
-[submodule "object_direction_msgs"]
-	path = object_direction_msgs
-	url = https://github.com/yukimakura/object_direction_msgs.git
