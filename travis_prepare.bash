@@ -1,9 +1,9 @@
 
 #required packages
-pip install catkin_pkg
-pip install empy
-pip install pyyaml
-pip install rospkg
+pip install catkin_pkg --user
+pip install empy --user
+pip install pyyaml --user
+pip install rospkg --user
 
 #ros install
 git clone https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu16.04_server.git
