@@ -1,0 +1,3 @@
+- git:
+    local-name: laser_scan_obstacle_detection
+    uri: https://github.com/yukimakura/laser_scan_obstacle_detection.git
