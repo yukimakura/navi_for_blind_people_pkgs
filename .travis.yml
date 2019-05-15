@@ -2,5 +2,5 @@ sudo: required
 dist: xenial
 
 script:
-  - bash -xve ./test/travis_prepare.bash
+  - bash -xve ./travis_prepare.bash
   - source ~/catkin_ws/devel/setup.bash
