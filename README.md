@@ -20,7 +20,7 @@ $ cd catkin_ws/src
 $ catkin_init_workspace
 $ git clone https://github.com/yukimakura/navi_for_blind_people_pkgs.git
 $ cd navi_for_blind_people_pkgs
-$ git submodule foreach git pull origin master
+$ git submodule update -i
 $ cd ../../
 $ catkin_make
 $ source ~/catkin_ws/devel/setup.bash
