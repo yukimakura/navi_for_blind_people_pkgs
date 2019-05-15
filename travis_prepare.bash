@@ -21,7 +21,7 @@ catkin_make
 
 #download own package
 cd ~/catkin_ws/src/
-rsync -av /home/travis/build/*/navi_for_blind_people_pkgs ~/catkin_ws/src/navi_for_blind_people_pkgs/
+rsync -av /home/travis/build/*/navi_for_blind_people_pkgs ~/catkin_ws/src/
 cd ~/catkin_ws/src/navi_for_blind_people_pkgs
 ls -la
 git submodule update -i
