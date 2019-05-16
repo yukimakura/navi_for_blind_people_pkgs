@@ -1,5 +1,5 @@
 # navi_for_blind_people_pkgs
-
+[![Build Status](https://travis-ci.org/yukimakura/navi_for_blind_people_pkgs.svg?branch=master)](https://travis-ci.org/yukimakura/navi_for_blind_people_pkgs)
 ## Description
 弱視の方を想定して開発している障害者サポートソフトウェア郡です。   
 将来的にはLiDARとRGBDカメラをメインのセンサーとして障害物回避や段差検出などのサポートを提供する予定です。   
