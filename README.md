@@ -1,6 +1,5 @@
 # navi_for_blind_people_pkgs
 
-
 ## Description
 弱視の方を想定して開発している障害者サポートソフトウェア郡です。   
 将来的にはLiDARとRGBDカメラをメインのセンサーとして障害物回避や段差検出などのサポートを提供する予定です。   
@@ -20,7 +19,7 @@ $ cd catkin_ws/src
 $ catkin_init_workspace
 $ git clone https://github.com/yukimakura/navi_for_blind_people_pkgs.git
 $ cd navi_for_blind_people_pkgs
-$ git submodule update -i
+$ wstool update
 $ cd ../../
 $ catkin_make
 $ source ~/catkin_ws/devel/setup.bash
