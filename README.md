@@ -2,11 +2,11 @@
 [![Build Status](https://travis-ci.org/yukimakura/navi_for_blind_people_pkgs.svg?branch=master)](https://travis-ci.org/yukimakura/navi_for_blind_people_pkgs)
 ## Description
 弱視の方を想定して開発している障害者サポートソフトウェア郡です。   
-将来的にはLiDARとRGBDカメラをメインのセンサーとして障害物回避や段差検出などのサポートを提供する予定です。   
+将来的には2DLiDARとRGBDカメラをメインのセンサーとして障害物回避や段差検出などのサポートを提供する予定です。   
 
 |パッケージ名 |概要|
 |---|---|   
-|laser_scan_obstacle_detection|LiDARを用いた障害物認識ソフトウェア|   
+|laser_scan_obstacle_detection|2DLiDARを用いた障害物認識ソフトウェア|   
 
 ## Requirement
 ROS(Kinetic KAME)   
